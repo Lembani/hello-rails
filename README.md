@@ -9,25 +9,50 @@
 - Ruby on Rails
 - PostgreSQL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**Prerequisites**
+To get started ensure that you have the following:
 
-Things you may want to cover:
+> Run the command(s) in terminal to ensure that Ruby on Rails is installed on your system
 
-* Ruby version
+```bash
+$ rails --version
+```
 
-* System dependencies
+### Setup
 
-* Configuration
+**Cloning** ⬇️
+To clone the project:
 
-* Database creation
+```bash
+$ git clone https://github.com/Lembani/hello-rails.git
+$ cd hello-rails
+```
 
-* Database initialization
+## Author(s)
 
-* How to run the test suite
+👤 **Lembani Sakala**
 
-* Services (job queues, cache servers, search engines, etc.)
+- GitHub: [@lembani](https://github.com/lembani)
+- Twitter: [@lembani_](https://twitter.com/lembani_)
+- LinkedIn: [lembani-sakala](https://linkedin.com/in/lembani-sakala)
 
-* Deployment instructions
+<hr>
 
-* ...
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
