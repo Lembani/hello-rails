@@ -1,6 +1,13 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Hello Rails
 
-> A basic Rails app.
+> A basic Rails app with basic routing and PostgreSQL database.
+
+## Built With
+
+- Ruby on Rails
+- PostgreSQL
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
